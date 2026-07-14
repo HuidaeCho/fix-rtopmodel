@@ -5,7 +5,7 @@ This small program fixes [r.topmodel](https://grass.osgeo.org/grass-stable/manua
 ## How to compile on Linux
 
 ```bash
-cc -o fix_rtopmodel fix_rtopmodel.c
+cc -o fix-rtopmodel fix-rtopmodel.c
 ```
 
 ## How to compile on Windows
@@ -16,5 +16,5 @@ cc -o fix_rtopmodel fix_rtopmodel.c
 2. Start Developer Command Prompt for VS 2022
 3. Compile
 ```cmd
-cl /Fe:fix_rtopmodel.exe fix_rtopmodel.c
+cl /Fe:fix-rtopmodel.exe fix-rtopmodel.c
 ```
